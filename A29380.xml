@@ -1,0 +1,316 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A vvord to the aged. By Mr. Will. Bridge, sometime fellow of Emanuel Colledge in Cambridge, and late preacher of the Word of God at Yarmouth. I commend this to be reprinted as a profitable and serious discourse. James Allen.</title>
+            <author>Bridge, William, 1600?-1670.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 37 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29380</idno>
+            <idno type="STC">Wing B4475</idno>
+            <idno type="STC">ESTC R214754</idno>
+            <idno type="EEBO-CITATION">99826830</idno>
+            <idno type="PROQUEST">99826830</idno>
+            <idno type="VID">31239</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29380)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31239)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1844:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A vvord to the aged. By Mr. Will. Bridge, sometime fellow of Emanuel Colledge in Cambridge, and late preacher of the Word of God at Yarmouth. I commend this to be reprinted as a profitable and serious discourse. James Allen.</title>
+                  <author>Bridge, William, 1600?-1670.</author>
+               </titleStmt>
+               <extent>[2], 18 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for J[ohn] G[riffin],</publisher>
+                  <pubPlace>Boston :</pubPlace>
+                  <date>in the year, 1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's name from Wing.</note>
+                  <note>Reproduction of the original in the Library of Congress, Washington, D.C.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:31239:1" rendition="simple:additions"/>
+            <p>A VVORD To The AGED.</p>
+            <p>By Mr. <hi>Will. Bridge,</hi> ſometime Fellow of <hi>Ema<g ref="char:EOLhyphen"/>nuel</hi> Colledge in <hi>Cambridge,</hi> and late preach<g ref="char:EOLhyphen"/>er of the Word of God at <hi>Yarmouth.</hi>
+            </p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>I commend this to be reprinted as a profitable and ſerious diſcourſe.</hi>
+                        </p>
+                        <closer>
+                           <signed>James Allen.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>BOSTON Printed for <hi>J. G.</hi> in the year, 1679.</p>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="chapter">
+            <pb facs="tcp:31239:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:31239:2"/>
+            <head>CHAP. I: <hi>The OLD MANS Weakneſs.</hi>
+            </head>
+            <p>THERE is no ſtate or condition of men but ſome grace, goodneſs, or virtue, may and can plant upon: as there is no occaſion but ſome ſin will grow upon,</p>
+            <p>Yet there is ſome grace, or virtue that is moſt ſuited unto ſome condition, &amp; will grow beſt upon ſuch a ſoyl: therefore the Apoſtle <hi>John</hi> ſaith, <hi>I write unto you Fathers, becauſe ye have known him that is from the beginning. I write unto you young men, be<g ref="char:EOLhyphen"/>cauſe ye have overcome the wicked one, I write unto you little children, becauſe ye have known the Father,</hi> 1 E<g ref="char:EOLhyphen"/>piſtle <hi>Joh.</hi> 2. 13. It is our wiſdom therefore to ob<g ref="char:EOLhyphen"/>ſerve what our ſtate and ſoyle is, and to plant our ground accordingly. Now old age is a dry &amp; bar<g ref="char:EOLhyphen"/>ren ground. The ſtate of old age is a ſtate of weak<g ref="char:EOLhyphen"/>neſs and of much infirmity. <hi>Solomon</hi> calls it <hi>the evil day,</hi> Eccl. 12. 1. And evil it is in regard of natural and of moral infirmities.</p>
+            <p n="1">1. Evil in regard of natural infirmities; for the <hi>the Clouds return after the rain.</hi> In the time of youth if a man be ſick and that cloud hath emptied it ſelf by ſome great ſickneſs, he is well again, &amp; a fair day of health is upon him. But if a man be ſtricken with years, and a cloud of ſickneſs doth ariſe upon him,
+<pb n="2" facs="tcp:31239:3"/> though that cloud hath diſcharged it ſelf by ſome great diſtemper, yet he hath ſtill <hi>infirmitatis poſt in<g ref="char:EOLhyphen"/>g<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ntem tem<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſtatem:</hi> ſti<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l it rains in upon him and he can hardly ſit dry in his old Cottage and therefore <hi>Solomon</hi> ſaith of this evil day, that then <hi>the Clouds return after the rain.</hi> Then alſo <hi>the Sun &amp; Moon &amp; Stars are darkned,</hi> that is the reaſon, memory, fancy, &amp; all thoſe faculties which do receive and give out our reaſon, <hi>v.</hi> 2. Then <hi>the keepers of the houſe do trem<g ref="char:EOLhyphen"/>blt,</hi> that is the hands and the arms, <hi>&amp; the ſtrong men bow themſelves,</hi> that is, the thighs and legs, <hi>and the grinders ceaſe becauſe they are few;</hi> that is, the teeth, <hi>&amp; thoſe that look out of the windows be darkned,</hi> that is, the eyes, <hi>v.</hi> 3. <hi>and the doors are ſhut in the ſtreets when the ſound of the grinding is low,</hi> that is, the lips are ſhut &amp; kept cloſe leſt the meat ſhould fall out of the mouth through want of teeth, <hi>and all the daughters of muſick are brought low,</hi> that is, both the ſpeech &amp; hearing, <hi>v.</hi> 4. <hi>then the Almona-tree flouri<g ref="char:EOLhyphen"/>ſheth,</hi> that is, the head grows gray and hoary, <hi>a Graſhopper is a burthen,</hi> for an old man cannot bear the lighteſt burden, <hi>and deſire faileth,</hi> that is, the ap<g ref="char:EOLhyphen"/>petite unto meat, drink, and the Marriage bed, <hi>v.</hi> 5. <hi>then the ſilver Cord is looſed,</hi> that is, the marrow of the back bone which runneth from the brain through the reck to the bottom of the back, <hi>&amp; the golden bowl is broken,</hi> that is, the Soul which is round, yellow, &amp; doth contain and preſerve the brain, <hi>and the Pitcher is broken at the Fountain,</hi> that is the blad<g ref="char:EOLhyphen"/>der which did hold the urine, which in old age doth inſenſibly paſs away, <hi>and the Wheel is broken at the</hi>
+               <pb n="3" facs="tcp:31239:3"/> 
+               <hi>Ciſtern,</hi> that is, the Lungs are broken off from their motion of reſpiration or inſpiration by Phlegm from the Stomack, or the circulation of the blood interrupted and hindred, <hi>V.</hi> 6. Thus the natural in<g ref="char:EOLhyphen"/>firmities of an old Man, are very many, &amp; the day of old age is an evil day in that reſpect: yea, upon this account an old man is but half a man, for eyes hath he and ſeeth not, ears hath he and heareth not.</p>
+            <p n="2">2 But as the day of old age is an evil day in regard of natural, ſo in regard of moral infirmities. For,</p>
+            <p n="1">1. Then men are apt to be too drowſie and remiſs in the things of God.</p>
+            <p n="2">2. Then are they apt to be too covetous and te<g ref="char:EOLhyphen"/>nacious for the things of this world: <hi>fugientem ſequi<g ref="char:EOLhyphen"/>mur Mundum:</hi> as wantonneſs is the young mans vice ſo covetouſneſs is the old mans ſin.</p>
+            <p n="3">3. Then are they apt to be too timorous &amp; fearful, we read but of one man that came to Chriſt by night out of fear, and he was a rich and old man, <hi>Nicodemus.</hi>
+            </p>
+            <p n="4">4. Then are they apt to be too touchy, Peeviſh, angry, and froward, for old age is a continued ſickneſs, and in ſickneſs men are apt to be angry.</p>
+            <p n="5">5. Then are they alſo unapt to be taught, and are very unteachable, they think they know more then others, and that they are not now to learn, <hi>Eccleſ.</hi> 4 13.</p>
+            <p n="6">6. Then are they hard to be pleaſed, and as hard to pleaſe others.</p>
+            <p n="7">7. Full of complaints they are of the preſent times praiſing the former dayes of old, which the old
+<pb n="4" facs="tcp:31239:4"/> men of thoſe dayes did as much complain of, as they do of theſe.</p>
+            <p n="8">8. And of all men if they be not good, they are the moſt impenitent, for by cuſtom and long continu<g ref="char:EOLhyphen"/>ance in ſin they are the moſt hardned, and ſo the leaſt penitent.</p>
+            <p n="9">9. Apt they are alſo to think and ſpeak of the ſins of their youth with delight, ſo to commit them again by thought and word, which they cannot come at by their action.</p>
+            <p n="10">10. They are full of ſuſpitions. and very apt to ſurmiſe, ſuſpect and fear the worſt, for, experience giving notice of former dangers keep their Souls in continual Alarm.</p>
+            <p>Having therefore, and labouring under all theſe and other infirmities both natural &amp; moral a three<g ref="char:EOLhyphen"/>fold work is incumbent upon the aged. Firſt, to comfort and bear up themſelves againſt their natu<g ref="char:EOLhyphen"/>ral infirmities. 2. To ſtrengthen themſelves againſt their moral infirmities, &amp; to root them out. 3. To plant that poſitive grace and goodneſs in the room thereof which doth beſt ſuit with their ſoyl and condition.</p>
+         </div>
+         <div n="2" type="chapter">
+            <head>CHAP. II. <hi>The OLD MANS STAFF.</hi>
+            </head>
+            <p>COmforts againſt the natural infirmities of old age are very many.</p>
+            <p n="1">1. Chriſt himſelf did bear them, &amp; ſtill as our high
+<pb n="5" facs="tcp:31239:4"/> Prieſt doth ſympathize with us under them, ſuch did he ſingle out for his care &amp; cure, when he was here on Earth, <hi>Joh.</hi> 5, there were many that lay by the Pool of <hi>Betheſday,</hi> among the reſt there was one that had lien ſick and diſeaſed 38. years. A young man therefore he was not, he would have ſtept into the Pool, but others ſtept in before him, and he had no man to help him in. A poor neglected man he was, whom others minded not. Yet this was the man that Chriſt came to cure, whom Chriſt mind<g ref="char:EOLhyphen"/>ed and ſought out, and cured, what then, though you be a poor, old, neglected perſon, that have lien long under your infirmities, yet Chriſt hath a cure for you, and what though others regard you not, and mind you not, Chriſt hath a cure for you. The blind men cryed, and their cryes put Chriſt to a ſtand for mercy, <hi>Math.</hi> 20. 31, 32.</p>
+            <p n="2">2. Though your infirmities be never ſo many and great, yet you have a peculiar honour that is twi<g ref="char:EOLhyphen"/>ſted with your infirmity, for it is called the Crown of old age; In times of the old Teſtament, they were to riſe up and to bow before the Ancient, yea, it is our duty to honour them<g ref="char:punc">▪</g> for this honour is joyned and commanded with the fear of God, <hi>Lev.</hi> 19. 32. <hi>Thou ſhalt riſe up before the hoary head, and honour the face of the old Man, and fear thy God, ſaith the Lord.</hi> The fear of God, and honouring the old Man, is commanded with the ſame breath, &amp; linked together in the ſame ſentence.</p>
+            <p n="3">3. Though you be very aged, yet you may be ve<g ref="char:EOLhyphen"/>ry good, was not <hi>Eli</hi> very good? Yet very aged:
+<pb n="6" facs="tcp:31239:5"/> was not <hi>David</hi> very good? yet he was very old when he ſaid, <hi>Lord, now letteſt thou thy Servant de<g ref="char:EOLhyphen"/>part in peace:</hi> was not <hi>Anna</hi> very good? Yet ſhe was very aged: who doth not know what a good man <hi>Paul</hi> was? Yet ſaith he, <hi>Paul the aged,</hi> good <hi>John</hi> was aged <hi>John.</hi> Poſſibly, then you may be ve<g ref="char:EOLhyphen"/>ry good, though you be very aged, labouring un<g ref="char:EOLhyphen"/>der much infirmity.</p>
+            <p n="4">4. And though your fleſh be weak, yet the Spirit may be willing, <hi>the fleſh indeed is weak<g ref="char:punc">▪</g>
+               </hi> ſaid Chriſt, when his Diſciples ſlept through natural infirmity, for it was late at night, and they were full of grief, but <hi>the Spirit is willing,</hi> ſaid he alſo, and where the Spirit is willing he will paſs by the weakneſs of the fleſh, and accept the willingneſs of the Spirit.</p>
+            <p n="5">5. Theſe infirmities of old age are ſuch, as are not the fruit of our own ſin (the more any infirmi<g ref="char:EOLhyphen"/>ty is cauſed by ſin<g ref="char:punc">▪</g> the more affiictive it is; for ſin is the ſting of death) I confeſs indeed they may be ſometimes; for the ſins of youth do ſometimes bite ſore in age. I eat ſo much of the forbidden fruit (ſaid a good man) when I was young, that God was fain to give much wormſeed to kill the worm. But the infirmities of old age are generally the decays of nature, not of grace.</p>
+            <p n="6">6. They are good warnings of our change ap<g ref="char:EOLhyphen"/>proaching, and by them we dye daily, that at laſt we may dye graciouſly, and comfortably.</p>
+            <p n="7">7. And who are thoſe that God doth reveal him<g ref="char:EOLhyphen"/>ſelf unto but to his old friends, thoſe he will ac<g ref="char:EOLhyphen"/>quaint with his ſecrets, &amp; make known his mind un<g ref="char:EOLhyphen"/>to,
+<pb n="7" facs="tcp:31239:5"/> 
+               <hi>Job.</hi> 12. 12. <hi>with the Ancient is wiſdome, and in length of dayes underſtanding.</hi>
+            </p>
+            <p n="8">8. And though your legs be weak, yet they may be ſtrong enough to carry you to Heaven, that bet<g ref="char:EOLhyphen"/>ter Country, wich you are now going to, and are very near; indeed your own preſent Country is a good Country, but the Country you are now go<g ref="char:EOLhyphen"/>ing to is a better Country, <hi>Heb.</hi> 11. 6.</p>
+            <p n="1">1. Better in regard of buildings, whoſe buil<g ref="char:EOLhyphen"/>der and maker is God, <hi>Heb.</hi> 11. 10.</p>
+            <p n="2">2. Better in regard of Inhabitants, where no unclean thing doth enter, <hi>Rev.</hi>
+            </p>
+            <p n="3">3. Better in regard of quietneſs, and freedome from trouble, where all tears ſhall not only be wi<g ref="char:EOLhyphen"/>ped from our cheeks, but out of our eyes (as the Greek word bears it, <hi>Rev.</hi> 7.) inſomuch as the eye ſhall never breed a tear again, nor be the womb of tears.</p>
+            <p n="4">4. Better in regard of riches, where you ſhall have an inheritance incorruptible, undefiled, that fadeth not away.</p>
+            <p n="5">5. Better in regard of pleaſure, for ſaith the Pſalmiſt, <hi>at thy right hand there are rivers of plea<g ref="char:EOLhyphen"/>ſures, and that for evermore.</hi>
+            </p>
+            <p n="6">6. Better in regard of largeneſs, for if the whole Earth be but as a pins head in compariſon of the Heavens, then ſurely there is room enough in Hea<g ref="char:EOLhyphen"/>ven, for every one to enjoy a greater Kingdome, then all <hi>England</hi> doth amount unto.</p>
+            <p n="7">7. Better in regard of ſelf ſubſiſtence, here one Country doth depend on another, but Heaven is
+<pb n="8" facs="tcp:31239:6"/> that Country alone which doth depend upon no other Country.</p>
+            <p n="8">8. Better in regard of our freedome from needs and neceſſities. It was <hi>Auguſtines</hi> Prayer. Deliver me, O Lord from my neceſſities. It is a great mer<g ref="char:EOLhyphen"/>cy now to have bread to eat when we want it, but it is a greater mercy to have no need of it. A great mercy it is to have a good bed to lye on, and ſo to ſleep quietly, but it is a greater mercy to have no need of bed or ſleep. This is the ſtate of that Hea<g ref="char:EOLhyphen"/>venly Country, where you have not theſe bleſſings, but where you have no need of them.</p>
+            <p n="9">9. Better alſo it is in regard of continuance, where every mercy and bleſſing grows upon the ſtalk of Eternity; and if it be a good thing to have a Leaſe of a good houſe and Land for one hundred years, what a bleſſed thing then is it to have a glorious Manſion and Inheritance lying in the Fields of E<g ref="char:EOLhyphen"/>ternity? When you come to a great Palace, and ſee fair Barns and Stables<g ref="char:punc">▪</g> and out-houſes, you ſay then, if the out-rooms and Stables be ſo coſtly and ſump<g ref="char:EOLhyphen"/>tuous, how coſtly and glorious is this Palace with<g ref="char:EOLhyphen"/>in? why? lift up your eyes and behold that ſpang<g ref="char:EOLhyphen"/>led Cannopy of the Heavens, that is over your head. Are not the Sun and Moon and Stars glori<g ref="char:EOLhyphen"/>ous? Yet theſe are but the out-houſes of Heaven, and if theſe out houſes be ſo glorions, how glorious is the Palace within? Yet this is that Country, that better Country, that you are going and drawing nigh unto, and your paſſage thither is very ſhort, for no ſooner do ye ſtep out of this World, but (if
+<pb n="9" facs="tcp:31239:6"/> godly, gracious, and in Chriſt, you ſtep immediately into that Country, there is no ſleeping of the Soul after death: ſome have dreamed of ſuch a ſleep, but <hi>Solomon</hi> tells us that <hi>the bo<g ref="char:EOLhyphen"/>dy upon death goes to the duſt, &amp; the Spirit unto him that gave it, Eccleſiaſtes.</hi> Chriſt ſaid to the Thief, <hi>this day ſhalt thou be with me in Paradice,</hi> and the Apoſtle <hi>Paul</hi> tells us that Paradice and the third Heaven are one and the ſame thing, 2 <hi>Cor.</hi> 12. Yea, ſaith paul, <hi>I am in a ſtraight betwixt two, not well knowing</hi> whe<g ref="char:EOLhyphen"/>ther I ſhould deſire to dye for mine own injoyment, or to live for the Service of the Churches, <hi>Phil.</hi> 1. 22, 23, 24. where<g ref="char:EOLhyphen"/>as if the Soul did ſleep in the Grave with the body, he need<g ref="char:EOLhyphen"/>ed not to have been in that ſtrait. <hi>I deſire,</hi> ſaid he, <hi>to be diſiol<g ref="char:EOLhyphen"/>ved, and to be with Chriſt;</hi> If with Chriſt preſently, How can the Soul ſleep with the body in the duſt? <hi>But we know,</hi> faith he, 2 <hi>Cor.</hi> 5. 1. <hi>That if our earthly houſe of this Tabernacle were diſſolved, we have a building of God, an houſe not made with hands, Eternal in the Heavens.</hi> What then though your turn houſe now be ready to fire into a F<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aver with every ſpark of diſtemper, is there not enough in that houſe above to pay for all. ſurely there is. Why then ſhould ye not lift up your heads ye old men, and be of good comfort under all your na<g ref="char:EOLhyphen"/>tural in firmityes.</p>
+            <p n="2">2. And as for your moral infirmityes, if you would ſtrengthen your ſelf againſt them and root out theſe weeds there.</p>
+            <p n="1">1. Be ſure that you ſtudy and think much on Chriſt cruci<g ref="char:EOLhyphen"/>fied, who alone is our righteouſneſs and our ſtrength, Temp<g ref="char:EOLhyphen"/>tations, or ſins blown out by reaſon or reſolution will eaſily light again, but quenched in the blood of Chriſt and they light no more. When the Iſraelites was ſtung with the fie<g ref="char:EOLhyphen"/>ry Serpents, he did not ſtand looking on his ſwoln arm or leg, but on the brazen Serpnt, and ſo was cured. Chriſt lift upon the Croſs is our brazen Serpent: and he hath ſaid, <hi>look unto me O all ye ends of the Earth and be ſaved.</hi>
+            </p>
+            <p n="2">2, Then by way of conſideration think, and think much with your ſelves, what an evil thing it is to ſin when a man is rea<g ref="char:EOLhyphen"/>dy to dye. Thus you leave not your ſin, but your ſin you.</p>
+            <p n="3">3. Be ſure that you do not chew the Cud of your former ſins by muſing on them with delight, for thereby you juſt<g ref="char:EOLhyphen"/>fie
+<pb n="10" facs="tcp:31239:7"/> your former practice, but rather mourn over them, for the way to be kept from future ſins is to mourn for former, and the way to be kept from ſins of old Age, is to mourn for the ſins of our youth.</p>
+            <p n="4">4. But above all things, (under your ſtudy of Chriſt cruci<g ref="char:EOLhyphen"/>fied) be ſure that you ſtrengthen your love to God in Chriſt, for if the boughs of the Tree be weak, the way to ſtrengthen them is, not to carry up dung to the boughs, but to lay the dung to the root, for by ſtrengthening the Root, you ſtreng<g ref="char:EOLhyphen"/>then the branches. Now the Root of all our mortification is love, for love is the cauſe of hatred. <hi>Ye that love the Lord hate evil.</hi> Love to God eats out our love to ſin, as the fear of God eats out our fear of men, and your love to God is ſtrengthe<g ref="char:EOLhyphen"/>ned by the ſight of his love to you. For love is the cauſe of love, the more we ſee Gods love to us, the more we love him, and do hate our ſins. Would you therefore take up your ſinful weeds by the roots? Then ſtrengthen your love, and this ſhall be a Staff in your hand to ſtrengthen and bear you up under all your infirmities both natural and moral</p>
+         </div>
+         <div n="3" type="chapter">
+            <head>CHAP. III. <hi>The OLD MANS G<g ref="char:V">Ʋ</g>IDE.</hi>
+            </head>
+            <p>BVt there is yet one thing remaining and incumbent on the Aged, and that is, to plant the poſitive grace and virtue, which doth beſt ſuit with his foyland condition.</p>
+            <p>
+               <hi>Queſt.</hi> What are thoſe good things therefore that Old men e<g ref="char:EOLhyphen"/>pecially are to do in their old Age.</p>
+            <p>
+               <hi>Anſw.</hi> 1. They are full of experience, and therefore ſhould be full of Faith; For though Gods word only be the ground of our Faith, yet experience is a great help to Faith. Now there is a Faith of relyance, and a Faith of aſſurance. Faith of relyance juſtifies, Faith of aſſurance comforts. Old men therefore are to exerciſe the Faith of relyance, relying upon Chriſts righteouſneſs, renouncing their own, and to
+<pb n="11" facs="tcp:31239:7"/> exerciſe the Faith of aſſurance; For it is ill dying with a doubting Soul. As Zeal is the young mans virtue, ſo Faith is the old mans grace.</p>
+            <p n="2">2. Then it is their work and duty to renew their repen<g ref="char:EOLhyphen"/>tance, for they ar<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhortly to appear before the Lord, and to give an accoun<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of all that they have done in the fleſh; &amp; will they appear before him in their filthy rags. Now though we are only waſhed from our ſins by the blood of Chriſt un<g ref="char:EOLhyphen"/>to Juſtification, yet we are waſhed from our filth by the hand of r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pentance unto ſanctification. For as God promi<g ref="char:EOLhyphen"/>ſed to waſh us with clean water, ſo he commands us to waſh our ſelves, <hi>Iſai.</hi> 1. And if a man will not waſh and repent at laſt, when will he repent? When the leaves are off the trees, we ſee the birds neaſts in the Trees and buſhes. Now in our old age our leaves are off, then therefore we may ſee thoſe neaſts of ſin, and luſts in our hearts and lives, which we ſaw not before, and ſo be ſenſible and repent of them.</p>
+            <p n="3">3. Then are they alſo to be much in reading the Scripture, M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ditation, and Prayer, for by this reading they ſhall gain knowledge: by meditation upon their reading they ſhall add affection to their knowledge, and by Prayer they ſhall add devotion unto their affection.</p>
+            <p n="4">4. And becauſe they are ready to weigh Anker, and to ſet ſail for the other World, it will be good for them to obſerve what is the proper work of this World, and to be much therein: For <hi>everything is beautiful in the time thereof.</hi> Now is a time for Believing: Heaven is no time for Faith, for in Heaven we live by ſight. Now is a time for repentance, in Heaven there is no repentance, for there is no ſorrow. Now is a time for Patience, in Heaven there is no Patience under Affliction, for there is no Affliction. Now is a time of hearing the Word preached, and for Sacraments and Ordinances; there is no preaching, Sacraments and Ordinances in Hea<g ref="char:EOLhyphen"/>ven. Now is a time to relieve the Poor, in Heaven there is no room for ſuch charity: It is that Country where no beg<g ref="char:EOLhyphen"/>gar lyes at your door. Now is a time to obſerve our Relati<g ref="char:EOLhyphen"/>ons, in Heaven there are no ſuch Relations, for <hi>they neither marry, nor are given in Marriage, bu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> are as the Angels.</hi> Now
+<pb n="12" facs="tcp:31239:8"/> therefore, what ever is in the power of your hand to do, do it with all your might, for in the grave there is no work, nor in Heaven there is none of this work whether you are go<g ref="char:EOLhyphen"/>ing. This therefore, that is to be done here and cannot be done there, is now to be done eſpecially,</p>
+            <p n="5">5. Then it is the old mans work and duty to live much in a little time, &amp; to be more exact and ſtrict in his life then ever, for the nearer the ſtone comes to the Center, the faſter it moves; the more wiſdome any man hath, the more ex<g ref="char:EOLhyphen"/>actly he works. Wiſdome and exactneſs go together. <hi>See that you walk exactly, not as fools, but as wiſe,</hi> ſayes the Apoſtle. Now gray hairs ſhould be found in the way of wiſdom: and the more frequently a man doth work, the more exactly he may do the ſame. Now thoſe that are ancient, have, or ſhould have been frequent in holy duties, they therefore of all men are to live &amp; walk moſt exactly. Thus it ſhall not be ſaid of them, as <hi>Seneca</hi> ſays of one, <hi>he did not live long, but he was long.</hi>
+            </p>
+            <p n="6">6. Then are they to knock off from the World, and to uſe the World as if they uſed it not, for <hi>the faſhion of this World paſſeth away, &amp; the time is ſhort, therefore their moderation ſhould be known unto all men, for the Lord is at hand.</hi> If a tooth be to he drawn and the gum be cut, the tooth doth come out with eaſe, but if it be faſt ſet in the gum, and not firſt looſned from the gum, it comes out with much difficulty; and what is the reaſon that many dye with ſuch difficulty; but becauſe they are ſo faſt ſet in their worldly gums, they are not looſned from their relations. Good therefore it is for old men, who are upon the brink of death to cut their gum, and to looſen themſelves from this world and all their Relations.</p>
+            <p n="7">7. Then let the old man take heed of all thoſe evils, that may and will ſtayn the glory of his old Age. All ſins do leave a blot and ſtain behind them, but youthful ſins do eſpecially ſtain old age. For the ſin is the greater as it is more contra<g ref="char:EOLhyphen"/>ry to the ſinner. It is an evil thing for any man to be unjuſt, but worſt for a Judge to be ſo, becauſe there is a ſpecial re<g ref="char:EOLhyphen"/>pugnancy betwixt the ſin &amp; the ſinner: now there is a ſpeci<g ref="char:EOLhyphen"/>al repugnancy betwixt old men and youthful ſins. Give me a young man indued with an old mans virtue, Wiſdome. Give
+<pb n="13" facs="tcp:31239:8"/> me an old man indued with a young mans grace, Zeal. But <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> young man vitiated with an old mans ſin, Covetouſneſs or an old man defiled with a young mans ſin, Wantonn<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſs are an abomination both to God and man, and are <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ained d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ep<g ref="char:EOLhyphen"/>ly and greatly. A certain <hi>Lacedemonian</hi> being asked <hi>Why he ſuffered his Beard to grow ſo long; To the end,</hi> ſaid he, <hi>that look<g ref="char:EOLhyphen"/>ing on my white hairs</hi> I <hi>may be put in mind, not to do any <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nbe<g ref="char:EOLhyphen"/>ſeeming my hoary whiteneſs.</hi>
+            </p>
+            <p n="8">8. Then it is their duty alſo to prepar<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for death, their great change and diſſolution, it was the complaint of <hi>Caeſar Borgius, When I lived, I provided for every thing but death, now I am ready to dye, I am not provided to dye;</hi> Such providers in the world there are very many, but ſhall I provide for a Journey and not for this great Journey? This is every mans work, but the old mans eſpecially. For though the young mans Candle may go out, the old mans will and ſhall.</p>
+            <p>
+               <hi>Queſt.</hi> But what ſhould the old man do that he may be fit to dye?</p>
+            <p>
+               <hi>Reſp.</hi> God will give dying grace upon dying ground, yet.</p>
+            <p n="1">1. He muſt be ſure to do the work of this preſent day, the only way to be fit for the work of the Morrow, is to do the work of the preſent day.</p>
+            <p n="2">2. Then let him examine himſelf and make his recko<g ref="char:EOLhyphen"/>nings even with God, that when he comes to dye, he may have nothing to do but to dye.</p>
+            <p n="3">3. Then let him reſign and give up himſelf, and will to God afreſh. Thus Chriſt did as ſoon as he drew nigh to death. <hi>If it be poſſible,</hi> ſaid he, <hi>let this cup paſs, yet not my will, but thy will be done,</hi> which he did again and again, at his firſt ap<g ref="char:EOLhyphen"/>proach unto death, and this he did in his laſt words, <hi>Father into thy hands I commend my Spirit.</hi>
+            </p>
+            <p n="4">4. Let him long after Heaven, and not be afraid to dye, for if he be in Chriſt, death it ſelf is his. <hi>All things are yours,</hi> ſaith the Apoſtle, <hi>life and death, for ye are Chriſts,</hi> and who is afraid of his own? The Child is not afraid of the great Ma<g ref="char:EOLhyphen"/>ſtiff, but puts his hand into the Dogs mouth, and if you ask him why ſo? For he is our own Dog ſaith the Child. Now if a man be in Chriſt, this great Maſtiff Death is his own, and therefore why would he be afraid thereof? Yea, why ſhould
+<pb n="14" facs="tcp:31239:9"/> he not be willing to dye? was <hi>Eliah</hi> unwilling to go into the fiery Chariot? Is the Child unwilling to ride home, becauſe it is a trotting horſe that he muſt ride upon? No, what then, though it be an hard and a ſore ſickneſs that you muſt ride on yet if it carry you home to your Father, why ſhould you be unwilling to dye? Now the only way to be willing to die, is to get aſſurance of our intereſt in Chriſt, and of our own Salvation. For what is the reaſon that men are unwilling to dye, but becauſe they cannot tell where they ſhall land after death. <hi>True,</hi> (ſayes one, <hi>I am lanching forth into the Ocean of Eternity, but on what ſhore I ſhall land God knows? O that I might live one year more, one moneth more, yea one hour more, till I had aſſurance of Salvation;</hi> And when that comes, then the ſoul having thereb<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> claſped about &amp; gotten Chriſt into his arms, cryes out and ſays, <hi>Lord, now let teſt thou thy Servant depart in peace, for mine eyes have ſeen thy Salvation.</hi>
+            </p>
+            <p n="5">5. Then alſo let him ſet his houſe in order, make his Will, and leave his Legacies to his Children, Friends; and Poſte<g ref="char:EOLhyphen"/>rity. Shall <hi>Achitophel</hi> when he hanged himſelf, ſet his houſe in order before he dyed, and ſhall not an ancient Chriſtian ſet his houſe and heart in order, make his Will, and leave his Legacies unto his Friends and Poſterity.</p>
+         </div>
+         <div n="4" type="chapter">
+            <head>GHAP. IV. <hi>The OLD MANS Will and Legacies.</hi>
+            </head>
+            <p>
+               <hi>Qveſt.</hi> But what good thing ſhould the old man leave, or give unto his poſterity by his laſt Will</p>
+            <p>
+               <hi>Reaſ,</hi> 1. Why firſt, he muſt be ſure to give his Soul unto God while he lives, for if a man gives his Soul to the world and devil while he lives what right hath he to give it unto God when he dyes? If I give away an houſe or Land while I live, can I juſtly give it to another when I dye? and if I give away my Soul to ſin, world, or devil while I live, how can I juſtly give it unto God when I dye? it being a Maxime in the common Law, that <hi>Vendens candem rem duobus falſari<g ref="char:EOLhyphen"/>us eſt.</hi>
+            </p>
+            <p n="2">
+               <pb n="15" facs="tcp:31239:9"/> 2. Then let him leave a good example unto his poſterity, a good Example is a great Legacy; thus a man ſpeaks when he is dead. as <hi>Abel</hi> doth, <hi>Heb.</hi> 11.</p>
+            <p n="3">3. And if he would leave ſome good thing unto his poſteri<g ref="char:EOLhyphen"/>ty, then let him leave his experiences, an old man is or ſhould be rich in experience: an ancient Chriſtian is or ſhould be an experimental Chriſtian, when therefore he comes to dye, it is his work and duty to leave thoſe experiences unto his Poſterity.</p>
+            <p n="4">4. Yea, then let him leave ſome good exhortations and admonitions with and upon his Poſterity, ſaying, Come, O my Son, or Daughter, or Friend, I am now going the way of all fleſh, when I am gone,</p>
+            <p n="1">1. Be ſure that you fear the Lord and keep his Command<g ref="char:EOLhyphen"/>ments, for if you keep Gods Commaddments you ſhall have the comfort of his promiſes.</p>
+            <p n="2">2. Be ſure alſo, O my Son, that you give your firſt and beſt unto God, for God is the firſt and beſt of Beings, <hi>and if you honour the Lord with your ſubſtance, and with the firſt fruits of all your encreaſe, then ſhall your Barns be filled with plenty, and your preſſes ſhall burſt forth with new Wine,</hi> Prov. 3. 10. And why? ſhould you not give your firſt time and beſt of your All unto God, who hath given his beſt and only Son unto you. If you ſerve God while you are young, God will bleſs you when you are old! and if you come unto him when you are young, you may build on it, that he will not forſake you when you are old, Thus <hi>David</hi> argued, Pſal. 71. 18. <hi>For ſake me not, O God, now I am old and gray-headed,</hi> Why? ver. 17. <hi>thou haſt taught me from my youth,</hi> ver. 5. <hi>for thou art my hope, O Lord God, thou art my truſt from my youth.</hi> God is engaged (it ſeems by this argumentation) to thoſe that are good while they are young, to ſhew mercy to them when they are old. The hand of a Child may pull up a plant when it is young &amp; tender, but if it grows to a Tree all the Horſes in the Town cannot pluck it up: ſo in regard of ſin, let your mortifica<g ref="char:EOLhyphen"/>tion of ſin therefore begin betimes. If the paper be clear and clean you may write any thing on it, but if other things be ſcribled on the p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>per, it is then unfit to receive any wri<g ref="char:EOLhyphen"/>ting
+<pb n="16" facs="tcp:31239:10"/> or impreſſion: ſo in regard of the impreſſions of good upon the Soul and heart. Let your vivication therefore and holineſs begin betimes, Thus let your firſt be given unto God.</p>
+            <p n="3">3. And though you have not ſo great parts and gifts as others have, yet let your deſires of good be as full as any others, what you want in expreſſion make up in affection, when nature is wanting in one thing, it ſupplies it in ano<g ref="char:EOLhyphen"/>ther. The blind man hath the beſt memory, and that God which gives you a heart to d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſire, will give you your hearts deſire, &amp; if your parts be taller by head and ſhoulders then others, then expect envy, and pray much for humility.</p>
+            <p n="4">4. In caſe you ſin at any time (as you will often) then be ſure, O my Children, that you delay not your repentance; for the green wound is moſt eaſily cured. The Thief in<g ref="char:EOLhyphen"/>deed was converted at the laſt, but it was as ſoon as he was called: ſome come in at the laſt hour of the day, but they come when they are called, now you are called to day, and therefore defer not till the morrow.</p>
+            <p n="5">5. Let your company be good, for every man is as the company of his choice is, <hi>Solomon</hi> ſaith, Eccl. 12, <hi>Remember thy Creator in the dayes of thy youth,</hi> which if you pleaſe you may read according to the Hebrew, <hi>in the dayes of thy choice or choices,</hi> becauſe in the dayes of youth, a man makes choice of his Trade or Calling: then he makes choice of his Religi<g ref="char:EOLhyphen"/>on: then he makes choice of his Wiſe, and then he makes choice of his Company. Now then, my Son, have a care of theſe choices.</p>
+            <p n="6">6. And let your diſcourſe be alwayes ſeaſoned with ſalt, for <hi>by your words you ſhall be juſtified, and by your words you ſhall be condemned at the laſt day,</hi> ſayes our Saviour, for <hi>Sermo Index animi,</hi> words are the Index of the mind, a good Soul never lives at the ſign of ill ſp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ech.</p>
+            <p n="7">7. And as for the world and the things thereof, though you may pray for much, yet you muſt be content with little. The way to have a mercy or bleſſing is to be content to go without it, &amp; the way to avoid any evil is to ſubmit to it, &amp; to remove it, is to bleſs God over it, as <hi>Job</hi> did.</p>
+            <p n="8">
+               <pb n="17" facs="tcp:31239:10"/> 8. Let your Recreation, O my Children, be ſparing, for they are but <hi>Condimentum</hi> your ſauce, and not <hi>nutrimentum,</hi> your nouriſhment, your Cordial and not your diet.</p>
+            <p n="9">9. Of all Books ſtudy the Bible, of all duties be much in prayer, of all graces exerciſe faith, of all dayes obſerve the Lords day, and of all things in Heaven or Earth be ſure that you get an intereſt in God by Jeſus Chriſt.</p>
+            <p n="10">10. And by any means, O my Children and Friends, <hi>le<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> brotherly love continue, for love is the fulfilling of the Law:</hi> who can break a faggot when the ſticks are joyned together by the common Band? but if the ſticks be parted, how eaſily are they all broken? and what is the reaſon that ſuch judicial breaches are made upon us, but becauſe our pride and want of love doth make ſuch ſinful breaches among us. <hi>Cyprian</hi> tells us that the diviſions and diſſentions of the Churches was the cauſe of the perſecution in the primitive times, for, ſaid he, <hi>Thoſe evils had not come to the brethren, if the brethren had been united or animated into one.</hi> But I am ſure that our Saviour Chriſt ſaith, <hi>By this ſhall all men know that ye are my Diſciples if you love one another,</hi> and <hi>John</hi> the Diſciple of love ſaith, <hi>By this ſhall you know that you are tranſlated from death to life becauſe you love the Brethren<g ref="char:punc">▪</g>
+               </hi> See therefore that you love the Brethren, and that becauſe they are Brethren. For poſ<g ref="char:EOLhyphen"/>ſibly a man may love thoſe that are good, yet not becauſe they are good, for then he would love them better that are better, and thoſe beſt that are beſt: if you love thoſe that are good it is well, yet this may be from ſome ſelf concern<g ref="char:EOLhyphen"/>ment, and your love then will be narrowed and your affecti<g ref="char:EOLhyphen"/>ons monopolized by ſome only of your own perſwaſion or relation, but if you love thoſe that are good, becauſe they are good, this is better, for then you will love all that is good, though of ſome different perſwaſion from you: for, <hi>a quatenus ad omnia.</hi> from all to all, is a good conſequence. Thus therefore, O my Sons, let your love be ſtated, conti<g ref="char:EOLhyphen"/>nued, and increaſed, towards men, but above all be ſure that you love Jeſus, alſo for Jeſus. Jeſus is hardly loved for Jeſus, but do you love Chriſt for himſelf, and let the only meaſure of your love be to know no meaſure. Thus let
+<pb n="18" facs="tcp:31239:11" rendition="simple:additions"/> the old man do and dye, and as he lived by Faith, he ſhall dye in the Faith.</p>
+            <p>And as Motives unto all theſe things let the old man con<g ref="char:EOLhyphen"/>ſider,</p>
+            <p n="1">1. That in ſo doing he ſhall leave a ſweet perfume behind him, and many ſhall bleſs God for him when he is dead.</p>
+            <p n="2">2. That there is enough in Heaven to pay for all his pains here on Earth.</p>
+            <p n="3">3. That he is not ſo weak, but he is ſtrong enough to ſin, and ſhall we be ſtrong to ſin and not to ſerve.</p>
+            <p n="4">4. That it may be it was late ere he came into Gods work, and if you played away the forenoon of your age, will you not work the harder in the afternoon.</p>
+            <p n="5">5. That God will accept from youth and old age, from youth becauſe it is the firſt, and from old age becauſe it is the laſt, and from much weakneſs.</p>
+            <p n="6">6. That Gods promiſe is very full, for he hath promiſed and ſaid, <hi>Thou ſhalt come to thy grave in a full old age, and as a ſhock of corn cometh in his ſeaſon,</hi> Job. 5. 26. yea, he hath pro<g ref="char:EOLhyphen"/>miſed that <hi>thoſe that are planted in the houſe of the Lord, ſhall flouriſh in the Courts of our God, they ſhall bring forth fruit in old Age, they ſhall be fat and flouriſhing,</hi> Pſal. 92 13, 14.</p>
+            <p n="7">7. That thus they ſhall not be afraid to dye, but ſhall ſay, with that good man dying, <hi>I have not ſo lived that I am afraid to dye, but I have ſo learned Chriſt that I am not afraid to dye.</hi>
+            </p>
+            <p n="8">8. Yea, and thus ſhall his old Age be a good old Age, and <hi>he ſo number his dayes</hi> (it is not ſaid his years, nor his moneths, nor his weeks, but dayes, for his life is ſo ſhort, that it is rather to be numbred by dayes then by years, or moneths, or weeks,) that <hi>he ſhould apply his heart unto wiſdome.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:31239:11"/>
+         </div>
+      </body>
+   </text>
+</TEI>
